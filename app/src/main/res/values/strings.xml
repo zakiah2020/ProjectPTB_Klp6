@@ -1,4 +1,7 @@
 <resources>
+<<<<<<< HEAD
+    <string name="app_name">Pemesanan Lapangan Futsal</string>
+=======
     <string name="app_name">login</string>
     <string name="title_activity_register">RegisterActivity</string>
     <!-- Strings used for fragments for navigation -->
@@ -9,4 +12,5 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+>>>>>>> e3b3ef21a7c0b849c2656c256e6b485b84ff1961
 </resources>
